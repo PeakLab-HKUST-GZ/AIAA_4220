@@ -63,7 +63,7 @@ Please note that regrading of a homework may cause your grade to go either up or
 ***
 
 ### Final Project
-coming soon ~>
+coming soon ~
 
 ***
 
