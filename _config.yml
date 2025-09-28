@@ -1,12 +1,12 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: SAILING lab
-name: 10-708 PGM
-title: Probabilistic Graphical Models
-email: 10708-instructor@cs.cmu.edu
+author: Peak Lab
+name: AIAA 4220
+title: Introduction to Embodied AI
+email: changhaochen@hkust-gz.edu.cn
 description: >
-  10-708 - Probabilistic Graphical Models - Carnegie Mellon University - Spring 2019
+  AIAA 4220 - Introduction to Embodied AI - The Hong Kong University of Science and Technology(Guangzhou) - Fall 2025
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -16,9 +16,9 @@ baseurl: AIAA_4220 # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: sailinglab
-google_analytics: UA-131744305-1
-youtube_channel: UCim-E6bNz7lUyKZwhgN6S1A
+github_username: PeakLab@HKUST-GZ
+google_analytics: #UA-131744305-1
+youtube_channel: #UCim-E6bNz7lUyKZwhgN6S1A
 rss:  # notes rss
 
 # -----------------------------------------------------------------------------
