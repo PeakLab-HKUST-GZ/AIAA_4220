@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /EAI-fall-2025/
-title: <b>I</b>ntroduction to <b>E</b>mbodied <b>A</b>I
-description: AIAA 4220 • Fall 2025 • The Hong Kong University of Science and Technology(Guangzhou)
+title: <b>I</b>ntroduction <b>T</b>o <b>E</b>mbodied <b>A</b>I
+description: AIAA 4220 • Fall 2025 • The Hong Kong University of Science and Technology (Guangzhou)
 logo: HKUST-logo.png
 news: true
 ---
