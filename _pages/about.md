@@ -11,7 +11,7 @@ This course introduces the fundamentals of embodied AI. Students will explore ke
 
 ***
 
-- **Time:** Wednesday 13:30-16.20 pm
+- **Time:** Wednesday 13:30-16:20 pm
 <!-- - **Location:** [Posner Hall 152](https://www.google.com/maps/place/Posner+Hall/@40.4424422,-79.9448675){:target="\_blank"} -->
 <!-- - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"} -->
 <!-- - **HW submission:** [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"} -->
