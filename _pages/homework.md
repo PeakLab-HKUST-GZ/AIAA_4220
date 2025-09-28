@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /homework/
+permalink: /EAI-fall-2025/homework/
 title: Homework Assignments
 ---
 
