@@ -49,7 +49,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -62,7 +62,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -75,7 +75,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -88,7 +88,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -102,7 +102,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -117,7 +117,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -130,7 +130,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -145,7 +145,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -158,7 +158,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -171,7 +171,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -184,7 +184,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -197,7 +197,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -212,7 +212,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -225,7 +225,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
@@ -238,7 +238,7 @@
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
-    readings:
+  readings:
     #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
