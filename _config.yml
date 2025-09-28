@@ -16,7 +16,7 @@ baseurl: AIAA_4220 # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: PeakLab@HKUST-GZ
+github_username: PeakLab-HKUST-GZ
 google_analytics: #UA-131744305-1
 youtube_channel: #UCim-E6bNz7lUyKZwhgN6S1A
 rss:  # notes rss
