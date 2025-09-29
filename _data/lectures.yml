@@ -4,7 +4,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Introduction</strong>
-  slides: "https://pan.baidu.com/s/1oXWKdTVtbTqPRNR9h5RbJg?pwd=v7mq"
+  slides: "/assets/slides/Embodied AI 1A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -17,7 +17,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Embodied AI Overview</strong>
-  slides: "https://pan.baidu.com/s/1aPvcvmi3ToeyIq2gDQqymA?pwd=jakf"
+  slides: "/assets/slides/Embodied AI 1B.pdf"
   annotated: #"https://drive.google.com/open?id=1OLREY-CC8OIZfY_8G1lEdqzSMsNZXHTe"
   video: #"https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=388ec3f4-de78-4f5e-b5ca-a9d001296630"
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-02/"
@@ -32,7 +32,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Intro to Computer Vision</strong>
-  slides: "https://pan.baidu.com/s/1uHhXnm_PBdXi1R5aXRQ_TA?pwd=birp"
+  slides: "/assets/slides/Embodied AI 2A.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -45,7 +45,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Camera Models & Calibration</strong>
-  slides: "https://pan.baidu.com/s/1Yzl4j7oI0B6Q1Ai1Baf22A?pwd=3yqn"
+  slides: "/assets/slides/Embodied AI 2B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -58,7 +58,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Visual Recognition I</strong>
-  slides: "https://pan.baidu.com/s/1i9LyqY04oZ8tIjp31iQiLw?pwd=dahb"
+  slides: "/assets/slides/Embodied AI 3AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -71,7 +71,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Visual Recognition II</strong>
-  slides: "https://pan.baidu.com/s/1i9LyqY04oZ8tIjp31iQiLw?pwd=dahb"
+  slides: "/assets/slides/Embodied AI 3AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -84,7 +84,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Object Detection</strong>
-  slides: "https://pan.baidu.com/s/14eB-dWNtFYA5xSsGOR096g?pwd=hmyf"
+  slides: "/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -98,7 +98,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Object Tracking</strong>
-  slides: "https://pan.baidu.com/s/14eB-dWNtFYA5xSsGOR096g?pwd=hmyf"
+  slides: "/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -113,7 +113,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Pytorch Basics</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -126,7 +126,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Intro to ROS and 3D Simulator</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -141,7 +141,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Project 1 Presentation</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -154,7 +154,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Localization and Mapping</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -167,7 +167,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Planning and Control</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -180,7 +180,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Reinforcement Learning</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -193,7 +193,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>End-to-End Navigation</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -208,7 +208,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>LLM & RLHF</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -221,7 +221,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Visual-Language Action Model</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -234,7 +234,7 @@
   lecturer: Changhao Chen
   title: >
     <strong>Project 2 and 3 Presentation</strong>
-  slides: #"https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
