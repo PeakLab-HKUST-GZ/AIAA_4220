@@ -44,4 +44,22 @@
     </ul>
   </div>
   {% endfor %}
+  
+  {% for ta in site.data.staff['Teaching Assistants'] %}
+  <div class="instructor-profile-two-col">
+    {% if ta.image %}
+    <a href="{{ ta.url }}" target="_blank"><img src="{{ ta.image | prepend: '/assets/img/' | relative_url }}" /></a>
+    {% endif %}
+    <ul class="instructor-info">
+      <li><span>Teaching Assistant</span> <a href="{{ ta.url }}" target="_blank">{{ ta.name }}</a></li>
+      <li><span>Email:</span> <a href="mailto:{{ ta.email | encode_email }}" target="_blank">{{ ta.email }}</a></li>
+      {% if ta.office-hours %}
+      <li><span>Office hours:</span> {{ ta.office-hours }}</li>
+      {% endif %}
+      {% if ta.office %}
+      <li><span>Office:</span> {{ ta.office }}</li>
+      {% endif %}
+    </ul>
+  </div>
+  {% endfor %}
 </div>

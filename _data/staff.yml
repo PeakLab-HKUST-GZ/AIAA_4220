@@ -2,16 +2,14 @@ Instructors:
     - name: Changhao Chen
       email: changhaochen@hkust-gz.edu.cn
       url: https://changhao-chen.github.io/
-      office-hours: "Wednesday 16:30-17:30 pm"
+      office-hours: "Wednesday 16:30-17:30pm"
       office: "E1 613"
       image: staff/changhao.jpg
 
-# Head-GSI:
-#     - name: Maruan Al-Shedivat
-#       email: alshedivat@cs.cmu.edu
-#       url: https://www.cs.cmu.edu/~mshediva/
-#       office-hours: "Wednesday 6-7pm, GHC 8115"
-#       image: staff/maruan.png
+Teaching Assistants:
+    - name: Jiemin Wu
+      email: jwu663@connect.hkust-gz.edu.cn
+      image: staff/jiemin.jpg
 
 # GSI:
 #     - name: Lisa Lee
