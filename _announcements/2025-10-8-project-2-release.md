@@ -7,7 +7,7 @@ title: Project 2 Release!
 
 Project 2 has been released!
 
-Please refer to the [project page]({{ site.baseurl }}/project/) for detailed instructions and deadlines.
+Please refer to the [project page]("https://peaklab-hkust-gz.github.io/AIAA_4220/EAI-fall-2025/project/") for detailed instructions and deadlines.
 
 **Deadline:** TBA
 
