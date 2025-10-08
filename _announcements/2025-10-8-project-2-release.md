@@ -6,7 +6,3 @@ title: Project 2 Release!
 ---
 
 Project 2 has been released!
-
-Please refer to the [project page]({{ site.baseurl }}/EAI-fall-2025/project/) for detailed instructions and deadlines.
-
-If you have any questions, please post on Piazza or contact the instructor during office hours.
