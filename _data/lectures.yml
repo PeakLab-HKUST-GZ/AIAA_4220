@@ -140,7 +140,20 @@
 - date: 10/15
   lecturer: Changhao Chen
   title: >
-    <strong>Project 1 Presentation</strong>
+    <strong>Project 1 Presentation I</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%206AB.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 10/15
+  lecturer: Changhao Chen
+  title: >
+    <strong>Project 1 Presentation II</strong>
   slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%206AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
@@ -153,7 +166,20 @@
 - date: 10/22
   lecturer: Changhao Chen
   title: >
-    <strong>Localization and Mapping</strong>
+    <strong>Localization and Mapping I</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%207AB.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 10/22
+  lecturer: Changhao Chen
+  title: >
+    <strong>Localization and Mapping II</strong>
   slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%207AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
@@ -166,8 +192,21 @@
 - date: 10/29
   lecturer: Changhao Chen
   title: >
-    <strong>Planning and Control</strong>
+    <strong>Planning and Control I</strong>
   slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%208A.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 10/29
+  lecturer: Changhao Chen
+  title: >
+    <strong>Planning and Control II</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%208B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -179,8 +218,21 @@
 - date: 11/5
   lecturer: Changhao Chen
   title: >
-    <strong>Reinforcement Learning</strong>
-  slides: #"/assets/slides/Embodied AI 4AB.pdf"
+    <strong>Reinforcement Learning I</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%209A.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 11/5
+  lecturer: Changhao Chen
+  title: >
+    <strong>Reinforcement Learning II</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%209B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -192,8 +244,21 @@
 - date: 11/12
   lecturer: Changhao Chen
   title: >
-    <strong>End-to-End Navigation</strong>
-  slides: #"/assets/slides/Embodied AI 4AB.pdf"
+    <strong>End-to-End Navigation I</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%2010A.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 11/12
+  lecturer: Changhao Chen
+  title: >
+    <strong>End-to-End Navigation II</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%2010B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -207,8 +272,21 @@
 - date: 11/19
   lecturer: Changhao Chen
   title: >
-    <strong>LLM & RLHF</strong>
-  slides: #"/assets/slides/Embodied AI 4AB.pdf"
+    <strong>LLM & RLHF I</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%2011A.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 11/19
+  lecturer: Changhao Chen
+  title: >
+    <strong>LLM & RLHF II</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%2011B.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
   notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
@@ -220,7 +298,33 @@
 - date: 11/26
   lecturer: Changhao Chen
   title: >
-    <strong>Visual-Language Action Model</strong>
+    <strong>Visual-Language Action Model I</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%2012A.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 11/26
+  lecturer: Changhao Chen
+  title: >
+    <strong>Visual-Language Action Model II</strong>
+  slides: "https://github.com/PeakLab-HKUST-GZ/AIAA_4220/blob/main/assets/slides/Embodied%20AI%2012B.pdf"
+  annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
+  video: #"https://scs.hosted.panopto.com/Panopto/
+  notes: #"https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+  readings:
+    #- Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    #- E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- date: 12/3
+  lecturer: Changhao Chen
+  title: >
+    <strong>Project 2 and 3 Presentation I</strong>
   slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
@@ -233,7 +337,7 @@
 - date: 12/3
   lecturer: Changhao Chen
   title: >
-    <strong>Project 2 and 3 Presentation</strong>
+    <strong>Project 2 and 3 Presentation II</strong>
   slides: #"/assets/slides/Embodied AI 4AB.pdf"
   annotated: #"https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
   video: #"https://scs.hosted.panopto.com/Panopto/
